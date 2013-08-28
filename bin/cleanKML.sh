@@ -1,4 +1,10 @@
 #!/bin/bash
+#Autor: Esmit Pérez 
+#Twitter: @esmitperez
+#Fecha: Jun 2013
+#
+#Copyright (c) 2013 Esmit Pérez (@esmiterez)
+#http://www.apache.org/licenses/LICENSE-2.0
 
 sed -e 's/SAN JOSE,SAN JOSE,CARMEN/10101/g' \
 -e 's/SAN JOSE,SAN JOSE,MERCED/10102/g' \

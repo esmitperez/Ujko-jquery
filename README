@@ -25,7 +25,7 @@ Futuras Versiones
 Personalizacion (opcional)
 ==========================
 - Modifique header y footer snippet conforme lo necesite
-- Corra make.sh para generar los archivos necesarios en el folder "release"
+- Corra bin/make.sh para generar los archivos necesarios en el folder "release"
 - Cambios de look/comportamiento pueden ser realizados en los .css y .js
 
 
@@ -49,7 +49,7 @@ El geógrafo del ICE Carlos Castillo Alfaro  puso en ARCGIS un ShapeFile (http:/
 
 Tomé ese .shp file y lo convertí a KML (famoso por ser usado en Google Earth) usando Shp2kml 2.0 (http://www.zonums.com/shp2kml.html) utilizando Zona UTM 14 (eso es lo que internet dice para CR) y dejando los defaults restantes.
 
-Posterior a obtener el .kml lo convertí a .svg usando indiemapper.com y usando inspección visual para darle el look final que quería. Una vez obtenido el .svg lo "limpié" usando cleanKML.sh para disminuir el tamaño y convertir los atributos a algo usable en .svg.
+Posterior a obtener el .kml lo convertí a .svg usando indiemapper.com y usando inspección visual para darle el look final que quería. Una vez obtenido el .svg lo "limpié" usando bin/cleanKML.sh para disminuir el tamaño y convertir los atributos a algo usable en .svg.
 
 Una vez obtenido el .svg pues era ya cuestión de "pegarlo" con jQuery.
 

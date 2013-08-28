@@ -27,7 +27,7 @@ $(function() {
 	// *************************************************
 	
 	$("#btn1").click(function(){	
-		$("#datos").MapaCR("pintarMapa",{filtro:{provincias:[2]}});
+		$("#datos").MapaCR("pintarMapa",{filtro:{lista:[2]}});
 	});
 
 
