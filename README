@@ -5,6 +5,22 @@ Fecha: Jun 2013
 Copyright (c) 2013 Esmit Pérez (@esmiterez)
 http://www.apache.org/licenses/LICENSE-2.0
 
+Release Notes
+=============
+0.01:
+- Despliega mapa de todos los distritos del país
+- API permite escoger (filtrar) con granularidad de provincia, canton, o
+- distrito
+- API permite personalizar colores y uso de animación
+- Mapa expone datos sobre distrito apuntado en ese momento
+
+
+Futuras Versiones
+=================
+- Compatibilidad con jvectormap/jvqmap
+- Reimplementacion de base de datos en HTML5
+- Reducción del tamaño del .svg (depende de los mapas fuentes)
+
 
 Personalizacion (opcional)
 ==========================
