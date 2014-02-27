@@ -15,27 +15,27 @@ http://www.apache.org/licenses/LICENSE-2.0
 }
 
 .prov_1 {
-	fill: #FF6600;
+	fill: red;
 }
 
 .prov_2 {
-	fill: #E86E00 ;
+	fill: blue;
 }
 
 .prov_3 {
-	fill: #D17500;
+	fill: green;
 }
 
 .prov_4 {
-	fill: #BA7D00 ;
+	fill: yellow ;
 }
 
 .prov_5 {
-	fill: #A38500;
+	fill: orange;
 }
 
 .prov_6 {
-	fill: #8C8C00;
+	fill: purple;
 }
 
 .prov_7 {
