@@ -1,8 +1,8 @@
 # Ujko jQuery
 
-Autor: Esmit Pérez 
-Twitter: @esmitperez
-Fecha: Jun 2013
+- Autor: Esmit Pérez 
+- Twitter: @esmitperez
+- Fecha: Jun 2013
 
 Copyright (c) 2013 Esmit Pérez (@esmiterez)
 http://www.apache.org/licenses/LICENSE-2.0
