@@ -1,3 +1,5 @@
+# Ujko jQuery
+
 Autor: Esmit Pérez 
 Twitter: @esmitperez
 Fecha: Jun 2013
@@ -5,8 +7,7 @@ Fecha: Jun 2013
 Copyright (c) 2013 Esmit Pérez (@esmiterez)
 http://www.apache.org/licenses/LICENSE-2.0
 
-Release Notes
-=============
+##Release Notes
 
 0.01:
 - Despliega mapa de todos los distritos del país
@@ -16,30 +17,26 @@ Release Notes
 - Mapa expone datos sobre distrito apuntado en ese momento
 
 
-Futuras Versiones
-=================
+##Futuras Versiones
 
 - Compatibilidad con jvectormap/jvqmap
 - Reimplementacion de base de datos en HTML5
 - Reducción del tamaño del .svg (depende de los mapas fuentes)
 
 
-Personalizacion (opcional)
-==========================
+##Personalizacion (opcional)
 
 - Modifique header y footer snippet conforme lo necesite
 - Corra bin/make.sh para generar los archivos necesarios en el folder "release"
 - Cambios de look/comportamiento pueden ser realizados en los .css y .js
 
 
-User Guide
-==========
+##User Guide
 
 Ponga el mapa en formato <svg> en un <div> e invoque .MapaCR() para activar el widget.
 Vea el código de ejemplo en /src/js/crmapa.js
 
-Historia y créditos
-===================
+##Historia y créditos
 
 tl;dr
  
